@@ -1,4 +1,4 @@
-# $${\color{lightgreen}SL \space\ Journal}$$
+# SL Journal
 
 #### Video Demo:  <https://youtu.be/0K-0Hm0yc64>
 #### Website Link:  <https://sanskritilabroo.github.io/sljournal.github.io/>
