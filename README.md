@@ -12,11 +12,11 @@ simple and minimalistic blue/grey design with wide use of images as an overridin
 
 | Homepage | About |
 | :---: | :---: |
-| <img src="Screenshots/homepage1.png" width="400">  | <img src="Screenshots/homepage2.png" width="400">|
+| <img src="Screenshots/homepage1.PNG" width="400">  | <img src="Screenshots/homepage2.PNG" width="400">|
 
 | Blogs | Blogpage |
 | :---: | :---: |
-| <img src="Screenshots/blogpage1.png" width="400">  | <img src="Screenshots/blogpage2.png" width="400">|
+| <img src="Screenshots/blogpage1.PNG" width="400">  | <img src="Screenshots/blogpage2.PNG" width="400">|
 
 
 
