@@ -3,21 +3,16 @@
 #### Website Link:  <https://youtu.be/0K-0Hm0yc64>
 #### Description:
 A blogpage created using technological elements of HTML,CSS & JavaScript through which one can upload writeups on topics of interest. Also adaptable and responsive to different widths and lengths made for smooth working and flow on different devices whether phone, tablet or laptop. The video demonstrates the working of the website in live action, combining all the code with external assets such as photos accompanying the blogs that make it more interactive and appealing. The implementation is fairly simple, to keep the project scope in check.
-*#### index.html:
+- #### index.html:
 contains code to form the main/opening homepage containing nav bar, a design image, an about+skills section, projects/blogs section and finally a subscribe button.
-#### blogs.html:
+- #### blogs.html:
 lists out all the blogs hosted on the website in detail to avail the articles as the homepage only provides a glimpse to the latest blogs that can be accessed by readers, there are also additional html pages - dedicated to each of the blogs.
-#### css:
+- #### css:
 simple and minimalistic blue/grey design with wide use of images as an overriding theme throughout the pages of my blog with google API used for fonts and Font Awesome used for icons such as the social media links in the footer and the dark/light mode switch.
-
-## Pictures
-- HOMEPAGE containing About section, Projects section, and Subscribe section, with nav and footer ready
 
 | Homepage | About |
 | :---: | :---: |
 | <img src="Screenshots/homepage1.png" width="400">  | <img src="Screenshots/homepage2.png" width="400">|
-
-- BLOGPAGE containing full list of blogs
 
 | Blogs | Blogpage |
 | :---: | :---: |
@@ -26,7 +21,7 @@ simple and minimalistic blue/grey design with wide use of images as an overridin
 
 
 
-### Possible improvements
+- #### Possible improvements
 1. Likes, Comments, Views/Statistics incorporated on posts
 2. Contact Me Page/Forum Open To Discussion
 
