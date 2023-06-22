@@ -1,7 +1,7 @@
 # SLJournal
 #### Video Demo:  <https://youtu.be/0K-0Hm0yc64>
 #### Description:
-A Blog/Personal Portfolio created using technological elements of HTML,CSS & JavaScript through which one can upload writeups on topics of interest. Also adaptable and responsive to different widths and lengths made for smooth working and flow on different devices whether phone, tablet or laptop. The video demonstrates the working of the website in live action, combining all the code with external assets such as photos accompanying the blogs that make it more interactive and appealing. The implementation is fairly simple, to keep the project scope in check.
+A blogpage created using technological elements of HTML,CSS & JavaScript through which one can upload writeups on topics of interest. Also adaptable and responsive to different widths and lengths made for smooth working and flow on different devices whether phone, tablet or laptop. The video demonstrates the working of the website in live action, combining all the code with external assets such as photos accompanying the blogs that make it more interactive and appealing. The implementation is fairly simple, to keep the project scope in check.
 ## How the webpage works?
 ### index.html -
 forms the main homepage containing nav bar, a design image, an about+skills section, projects/blogs section and finally a subscribe button
