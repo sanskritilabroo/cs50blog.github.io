@@ -11,8 +11,10 @@ lists out all the blogs hosted on the website in detail to avail the articles as
 - #### css:
 simple and minimalistic blue/grey design with wide use of images as an overriding theme throughout the pages of my blog with google API used for fonts and Font Awesome used for icons such as the social media links in the footer and the dark/light mode switch.
 
-![Static Badge](https://img.shields.io/badge/HTML-1EF3D7) ![Static Badge](https://img.shields.io/badge/CSS-F3891E)
- ![Static Badge](https://img.shields.io/badge/JavaScript-C11EF3)
+<img src="https://img.shields.io/badge/HTML-1EF3D7" width="50" height="20">  
+<img src="https://img.shields.io/badge/CSS-F3891E" width="50" height="20">
+<img src="https://img.shields.io/badge/JavaScript-C11EF3" width="50" height="20">
+
 
 
 | Homepage | About |
