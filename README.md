@@ -24,6 +24,7 @@ simple and minimalistic blue/grey design with wide use of images as an overridin
 - #### Possible improvements
 1. Likes, Comments, Views/Statistics incorporated on posts
 2. Contact Me Page/Forum Open To Discussion
+3. Personal Projects/Skills Showcase
 
 ## About CS50
 CS50 is a openware course from Havard University and taught by David J. Malan
