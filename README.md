@@ -3,7 +3,7 @@
 #### Website Link:  <https://youtu.be/0K-0Hm0yc64>
 #### Description:
 A blogpage created using technological elements of HTML,CSS & JavaScript through which one can upload writeups on topics of interest. Also adaptable and responsive to different widths and lengths made for smooth working and flow on different devices whether phone, tablet or laptop. The video demonstrates the working of the website in live action, combining all the code with external assets such as photos accompanying the blogs that make it more interactive and appealing. The implementation is fairly simple, to keep the project scope in check.
-#### index.html:
+*#### index.html:
 contains code to form the main/opening homepage containing nav bar, a design image, an about+skills section, projects/blogs section and finally a subscribe button.
 #### blogs.html:
 lists out all the blogs hosted on the website in detail to avail the articles as the homepage only provides a glimpse to the latest blogs that can be accessed by readers, there are also additional html pages - dedicated to each of the blogs.
