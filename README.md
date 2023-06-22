@@ -16,7 +16,7 @@ simple and minimalistic blue/grey design with wide use of images as an overridin
 
 | Blogs | Blogpage |
 | :---: | :---: |
-| <img src="Screenshots/blogpage1.png" width="400">  | <img src="Screenshots/blogpage2.png" width="400">|
+| <img src="cs50blogproject.github.io/Screenshots/blogpage1.PNG" width="400">  | <img src="Screenshots/blogpage2.png" width="400">|
 
 
 
